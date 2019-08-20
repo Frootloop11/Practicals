@@ -22,7 +22,7 @@ def main():
             print("Result: {:.2f} C".format(celsius))
         else:
             print("Invalid option")
-        print(MENU)
+        print(MENU) 
         choice = input(">>> ").upper()
     print("Thank you.")
 
