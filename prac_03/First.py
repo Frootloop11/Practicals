@@ -9,7 +9,7 @@ def main():
 
 def get_length(password):
     for i in range(len(password)):
-        print('*', end='')
+        print('*', end=' ')
 
 
 def get_password(password):
